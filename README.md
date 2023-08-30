@@ -32,9 +32,9 @@ Aprendizado de máquina aplicado à engenharia.
 # Critérios de avaliação
 Artefatos do projeto dividido em 3 marcos de entrega:
 
-* Marco 1: M1 = OP + EAP + CG
-* Marco 2: M2 = EAP + CG + RE
-* Marco 3: M3 = AF + RT
+* Marco 1: M1 = (OP + EAP + CG)/3
+* Marco 2: M2 = (EAP + CG + RE)/3
+* Marco 3: M3 = (AF + RT)/2
 
 Média Final: $MF = (M1 + M2 + M3) / 3$
 
@@ -42,6 +42,17 @@ Média Final: $MF = (M1 + M2 + M3) / 3$
 * M1: 29/09/2023
 * M2: 25/10/2023
 * M3: 12/2023
+
+O aluno terá de satisfazer os seguintes requisitos, para obter a aprovação na disciplina:
+
+Aprovação se NF ≥ 5,0 e se Percentual de faltas (PF) for PF < 25%. Onde PF é dado pelo número de aulas com faltas registradas dividido pelo número de aulas ministradas.
+
+Reprovação se NF < 5,0 ou se PF 25%, então o aluno será considerado reprovado por nota ou por falta. Não serão aceitas atividades fora do prazo e por e-mail.
+
+Pontualidade na entrega das avaliações. O não recebimento dos trabalhos, projeto e/ou tarefa; ou a não apresentação do mesmo acarretará na perda dos pontos correspondentes. 
+
+Caso o aluno falte a alguma das avaliações e apresente atestado médico, terá como média final na disciplina a média aritmética dos demais marcos.
+
 
 *Os projetos podem ser realizados em grupos de até 3 alunos.*
 # Bibliografia básica
